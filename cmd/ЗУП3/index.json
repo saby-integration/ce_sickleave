@@ -42,17 +42,17 @@
      "SABY": {
       "Subsystem": {
 		"ЭЛН": {  
-			"Subsystem.json":  "sickleave\\base\\Subsystem.json"
+			"Subsystem.json":  "sickleave\\src\\ЗУП3\\Subsystem.json"
 		}
 	  }
     }
 },
     "Constant": {
-	"Saby_ИспользоватьЭЛН.json": "sickleave\\base\\Constant\\Saby_ИспользоватьЭЛН.json"
+	"Saby_ИспользоватьЭЛН.json": "sickleave\\src\\ЗУП3\\Constant\\Saby_ИспользоватьЭЛН.json"
   },
   "Enum": {
   },
   "FunctionalOption": {
-	 "Saby_ИспользоватьЭЛН.json": "sickleave\\base\\FunctionalOption\\Saby_ИспользоватьЭЛН.json"
+	 "Saby_ИспользоватьЭЛН.json": "sickleave\\src\\ЗУП3\\FunctionalOption\\Saby_ИспользоватьЭЛН.json"
   }
 }
