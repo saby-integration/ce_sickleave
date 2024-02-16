@@ -1,0 +1,64 @@
+{
+  "CommonModule": {
+    "Saby_ЭДОСФСС": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.json",
+      "CommonModule.obj.1c": "sickleave\\base\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.obj.1c"
+    },
+    "Saby_ЭДОСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.obj.1c"
+    },
+    "Saby_ЭДОСФССПовтИсп": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.json",
+      "CommonModule.obj.1c": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.obj.1c"
+    },
+    "ЭлектронныйДокументооборотСФСС": {
+      "CommonModule.json":   "sickleave\\src\\КА25\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.json",
+      "CommonModule.obj.1c": "sickleave\\src\\КА25\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.obj.1c"
+    },
+    "ЭлектронныйДокументооборотСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.obj.1c"
+    }
+  },
+  "Document": {
+    "ВходящийЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ВходящийЗапросФССДляРасчетаПособия\\Document.json"
+    },
+    "ИзвещениеФСС": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ИзвещениеФСС\\Document.json"
+    },
+    "ИсходящееСообщениеОСтраховомСлучаеФСС": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ИсходящееСообщениеОСтраховомСлучаеФСС\\Document.json"
+    },
+    "ОтветНаЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ОтветНаЗапросФССДляРасчетаПособия\\Document.json"
+    },
+    "СведенияОЗастрахованномЛицеФСС": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\СведенияОЗастрахованномЛицеФСС\\Document.json"
+    },
+    "ЗапросСреднегоЗаработкаСЭДО": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ЗапросСреднегоЗаработкаСЭДО\\Document.json"
+    },
+    "СреднийЗаработокСЭДО": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\СреднийЗаработокСЭДО\\Document.json"
+    }
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"Subsystem.json": "sickleave\\src\\КА25\\Subsystem\\SABY\\Subsystem\\ЭЛН\\Subsystem.json"
+		}
+	  }
+    }
+  },
+    "Constant": {
+	"Saby_ИспользоватьЭЛН.json": "sickleave\\src\\КА25\\Constant\\Saby_ИспользоватьЭЛН.json"
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+	 "Saby_ИспользоватьЭЛН.json": "sickleave\\src\\КА25\\FunctionalOption\\Saby_ИспользоватьЭЛН.json"
+  }
+}
