@@ -1,0 +1,58 @@
+{
+  "CommonModule": {
+    "Saby_ЭДОСФСС": {
+      "CommonModule.json": "sickleave\\src\\ERP25\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.obj.bsl"
+    },
+    "Saby_ЭДОСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\ERP25\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.obj.bsl"
+    },
+    "Saby_ЭДОСФССПовтИсп": {
+      "CommonModule.json": "sickleave\\src\\ERP25\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФСС": {
+      "CommonModule.json": "sickleave\\src\\ERP25\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\ERP25\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.obj.bsl"
+    }
+  },
+  "Document": {
+    "ВходящийЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\ERP25\\Document\\ВходящийЗапросФССДляРасчетаПособия\\Document.json"
+    },
+    "ИзвещениеФСС": {
+      "Document.json": "sickleave\\src\\ERP25\\Document\\ИзвещениеФСС\\Document.json"
+    },
+    "ИсходящееСообщениеОСтраховомСлучаеФСС": {
+      "Document.json": "sickleave\\src\\ERP25\\Document\\ИсходящееСообщениеОСтраховомСлучаеФСС\\Document.json"
+    },
+    "ОтветНаЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\ERP25\\Document\\ОтветНаЗапросФССДляРасчетаПособия\\Document.json"
+    },
+    "СведенияОЗастрахованномЛицеФСС": {
+      "Document.json": "sickleave\\src\\ERP25\\Document\\СведенияОЗастрахованномЛицеФСС\\Document.json"
+    }
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"Subsystem.json":  "sickleave\\src\\ERP25\\Subsystem.json"
+		}
+	  }
+    }
+},
+    "Constant": {
+	"Saby_ИспользоватьЭЛН.json": "sickleave\\src\\ERP25\\Constant\\Saby_ИспользоватьЭЛН.json"
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+	 "Saby_ИспользоватьЭЛН.json": "sickleave\\src\\ERP25\\FunctionalOption\\Saby_ИспользоватьЭЛН.json"
+  }
+}
