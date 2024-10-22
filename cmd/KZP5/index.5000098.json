@@ -1,0 +1,59 @@
+{
+  "Области include": {
+    "sickleave_base_CommonModule_ПолучитьРеквизитыФизическогоЛица": "sickleave_src_KZP5_CommonModule_ПолучитьРеквизитыФизическогоЛица",
+    "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФСС": "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФССVer2"
+  },
+  "CommonModule": {
+    "Saby_ЭДОСФСС": {
+      "CommonModule.json": "sickleave\\src\\KZP5\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.obj.bsl"
+    },
+    "Saby_ЭДОСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\KZP5\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.obj.bsl"
+    },
+    "Saby_ЭДОСФССПовтИсп": {
+      "CommonModule.json": "sickleave\\src\\KZP5\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФСС": {
+      "CommonModule.json": "sickleave\\src\\KZP5\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\KZP5\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.obj.bsl"
+    }
+  },
+  "Document": {
+    "ЗаявлениеОВыплатеПособияВФСС": {
+      "Document.json": "sickleave\\src\\KZP5\\Document\\ЗаявлениеОВыплатеПособияВФСС\\Document.json"
+    },
+    "ИнформацияОЖизненныхСобытияхФСС": {
+      "Document.json": "sickleave\\src\\KZP5\\Document\\ИнформацияОЖизненныхСобытияхФСС\\Document.json"
+    },
+    "ОтветНаЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\KZP5\\Document\\ОтветНаЗапросФССДляРасчетаПособия\\Document.json"
+    },
+    "ЗапросСведенийОЗаработнойПлате": {
+      "Document.json": "sickleave\\src\\KZP5\\Document\\ЗапросСведенийОЗаработнойПлате\\Document.json"
+    }
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"Subsystem.json":  "sickleave\\src\\KZP5\\Subsystem.json"
+		}
+	  }
+    }
+},
+    "Constant": {
+	"Saby_ИспользоватьЭЛН.json": "sickleave\\src\\KZP5\\Constant\\Saby_ИспользоватьЭЛН.json"
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+	 "Saby_ИспользоватьЭЛН.json": "sickleave\\src\\KZP5\\FunctionalOption\\Saby_ИспользоватьЭЛН.json"
+  }
+}
