@@ -1,0 +1,16 @@
+{
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"Subsystem.json":  "sickleave\\src\\БУХ3\\Subsystem.json"
+		}
+	  }
+    }
+},
+    "Constant": {
+	"Saby_ИспользоватьЭЛН.json": "sickleave\\src\\БУХ3\\Constant\\Saby_ИспользоватьЭЛН.json"
+  },
+  "Enum": {
+  }
+}
