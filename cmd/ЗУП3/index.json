@@ -1,0 +1,22 @@
+{
+  "CommonModule": {
+  },
+  "Document": {
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"Subsystem.json":  "sickleave\\src\\ЗУП3\\Subsystem.json"
+		}
+	  }
+    }
+},
+    "Constant": {
+	"Saby_ИспользоватьЭЛН.json": "sickleave\\src\\ЗУП3\\Constant\\Saby_ИспользоватьЭЛН.json"
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+  }
+}
