@@ -1,0 +1,86 @@
+{
+  "Области include": {
+    "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФСС": "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФССVer2"
+  },
+  "CommonModule": {
+    "Saby_ЭДОСФСС": {
+      "CommonModule.json": "sickleave\\src\\БУХ3\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.obj.bsl"
+    },
+    "Saby_ЭДОСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\БУХ3\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.obj.bsl"
+    },
+    "Saby_ЭДОСФССПовтИсп": {
+      "CommonModule.json": "sickleave\\src\\БУХ3\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФСС": {
+      "CommonModule.json": "sickleave\\src\\БУХ3\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\БУХ3\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.obj.bsl"
+    }
+  },
+  "Catalog": {
+    "МашиночитаемыеДоверенностиФСС": {
+      "Catalog.json": "src\\БУХ3\\Catalog\\МашиночитаемыеДоверенностиФСС\\Catalog.json",
+      "CatalogForm": {
+        "ФормаВыбора": {
+          "Form.json": "sickleave\\src\\БУХ3\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаВыбора\\Form.json",
+          "Form.elements803.json": "sickleave\\src\\БУХ3\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаВыбора\\Form.elements803.json",
+          "Form.form803.json": "sickleave\\src\\БУХ3\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаВыбора\\Form.form803.json",
+          "Form.obj.bsl": "sickleave\\base\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаВыбора\\Form.obj.bsl"
+        },
+        "ФормаСписка": {
+          "Form.json": "sickleave\\src\\БУХ3\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаСписка\\Form.json",
+          "Form.elements803.json": "sickleave\\src\\БУХ3\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаСписка\\Form.elements803.json",
+          "Form.form803.json": "sickleave\\src\\БУХ3\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаСписка\\Form.form803.json",
+          "Form.obj.bsl": "sickleave\\base\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаСписка\\Form.obj.bsl"
+        }
+      }
+    }
+  },
+  "Document": {
+    "ВходящийЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\БУХ3\\Document\\ВходящийЗапросФССДляРасчетаПособия\\Document.json"
+    },
+    "ИзвещениеФСС": {
+      "Document.json": "sickleave\\src\\БУХ3\\Document\\ИзвещениеФСС\\Document.json"
+    },
+    "ИсходящееСообщениеОСтраховомСлучаеФСС": {
+      "Document.json": "sickleave\\src\\БУХ3\\Document\\ИсходящееСообщениеОСтраховомСлучаеФСС\\Document.json"
+    },
+    "ОтветНаЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\БУХ3\\Document\\ОтветНаЗапросФССДляРасчетаПособия\\Document.json"
+    },
+    "СведенияОЗастрахованномЛицеФСС": {
+      "Document.json": "sickleave\\src\\БУХ3\\Document\\СведенияОЗастрахованномЛицеФСС\\Document.json"
+    },
+    "ЗапросСреднегоЗаработкаСЭДО": {
+      "Document.json": "sickleave\\src\\БУХ3\\Document\\ЗапросСреднегоЗаработкаСЭДО\\Document.json"
+    },
+    "СреднийЗаработокСЭДО": {
+      "Document.json": "sickleave\\src\\БУХ3\\Document\\СреднийЗаработокСЭДО\\Document.json"
+    }
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"Subsystem.json":  "sickleave\\src\\БУХ3\\Subsystem.json"
+		}
+	  }
+    }
+  },
+    "Constant": {
+	"Saby_ИспользоватьЭЛН.json": "sickleave\\src\\БУХ3\\Constant\\Saby_ИспользоватьЭЛН.json"
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+	 "Saby_ИспользоватьЭЛН.json": "sickleave\\src\\БУХ3\\FunctionalOption\\Saby_ИспользоватьЭЛН.json"
+  }
+}
