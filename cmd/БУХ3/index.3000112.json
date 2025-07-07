@@ -1,0 +1,18 @@
+{
+  "Subsystem": {
+    "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"*": "sickleave\\src\\БУХ3\\Subsystem\\SABY\\Subsystem\\ЭЛН"
+		}
+	  }
+    }
+  },
+  "Constant": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\src\\БУХ3\\Constant\\ИспользоватьЭЛН"
+	  }
+  },
+  "Enum": {
+  }
+}
