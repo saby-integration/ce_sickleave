@@ -1,0 +1,83 @@
+{
+  "Области include": {
+    "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФСС": "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФССVer2"
+  },
+  "CommonModule": {
+    "ЭДОСФСС": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.obj.bsl"
+    },
+    "ЭДОСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.obj.bsl"
+    },
+    "ЭДОСФССПовтИсп": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\КА25\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФСС": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\КА25\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\КА25\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\КА25\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.obj.bsl"
+    }
+  },
+  "Document": {
+    "ВходящийЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ВходящийЗапросФССДляРасчетаПособия\\Document.json",
+      "Document.id.json": "sickleave\\src\\КА25\\Document\\ВходящийЗапросФССДляРасчетаПособия\\Document.id.json"
+    },
+    "ИзвещениеФСС": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ИзвещениеФСС\\Document.json",
+      "Document.id.json": "sickleave\\src\\КА25\\Document\\ИзвещениеФСС\\Document.id.json"
+    },
+    "ИсходящееСообщениеОСтраховомСлучаеФСС": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ИсходящееСообщениеОСтраховомСлучаеФСС\\Document.json",
+      "Document.id.json": "sickleave\\src\\КА25\\Document\\ИсходящееСообщениеОСтраховомСлучаеФСС\\Document.id.json"
+    },
+    "ОтветНаЗапросФССДляРасчетаПособия": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ОтветНаЗапросФССДляРасчетаПособия\\Document.json",
+      "Document.id.json": "sickleave\\src\\КА25\\Document\\ОтветНаЗапросФССДляРасчетаПособия\\Document.id.json"
+    },
+    "СведенияОЗастрахованномЛицеФСС": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\СведенияОЗастрахованномЛицеФСС\\Document.json",
+      "Document.id.json": "sickleave\\src\\КА25\\Document\\СведенияОЗастрахованномЛицеФСС\\Document.id.json"
+    },
+    "ЗапросСреднегоЗаработкаСЭДО": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\ЗапросСреднегоЗаработкаСЭДО\\Document.json",
+      "Document.id.json": "sickleave\\src\\КА25\\Document\\ЗапросСреднегоЗаработкаСЭДО\\Document.id.json"
+    },
+    "СреднийЗаработокСЭДО": {
+      "Document.json": "sickleave\\src\\КА25\\Document\\СреднийЗаработокСЭДО\\Document.json",
+      "Document.id.json": "sickleave\\src\\КА25\\Document\\СреднийЗаработокСЭДО\\Document.id.json"
+    }
+  },
+  "Subsystem": {
+    "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"*": "sickleave\\src\\КА25\\Subsystem\\SABY\\Subsystem\\ЭЛН"
+		}
+	  }
+    }
+  },
+  "Constant": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\src\\КА25\\Constant\\ИспользоватьЭЛН"
+	  }
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\src\\КА25\\FunctionalOption\\ИспользоватьЭЛН"
+	  }
+  }
+}
