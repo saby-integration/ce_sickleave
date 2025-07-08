@@ -1,0 +1,9 @@
+
+#Область include_sickleave_base_CommonModule_ИменаМодулейСерверСЭДО
+#КонецОбласти
+
+#Область include_core_base_Helpers_ПрефиксПродукта
+#КонецОбласти
+
+#Область include_sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФСС
+#КонецОбласти
