@@ -1,0 +1,86 @@
+{
+  "Области include": {
+    "sickleave_base_DataProcessor_ДокументооборотСКонтролирующимиОрганами_Form_КонтейнерКлиентскихМетодов_ОтправитьСообщениеСЭДОФСС": "sickleave_base_DataProcessor_ДокументооборотСКонтролирующимиОрганами_Form_КонтейнерКлиентскихМетодов_ОтправитьСообщениеСЭДОФССver2",
+    "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФССКлиент_ПолучитьСообщенияСЭДОЗаПериод": "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФССКлиент_ПолучитьСообщенияСЭДОЗаПериодVer2",
+    "sickleave_base_CommonModule_ИмяФункцииМассивОбрабатываемыхПодтиповВложений": "sickleave_base_CommonModule_ИмяФункцииМассивОбрабатываемыхПодтиповВложенийVer2",
+    "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФСС": "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФССVer2"
+  },
+  "CommonModule": {
+    "ЭДОСФСС": {
+      "CommonModule.json": "sickleave\\src\\СЭДО\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\СЭДО\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФСС\\CommonModule.obj.bsl"
+    },
+    "ЭДОСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\СЭДО\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\СЭДО\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССКлиент\\CommonModule.obj.bsl"
+    },
+    "ЭДОСФССПовтИсп": {
+      "CommonModule.json": "sickleave\\src\\СЭДО\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\СЭДО\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССПовтИсп\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФСС": {
+      "CommonModule.json":   "sickleave\\src\\СЭДО\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.json",
+      "CommonModule.id.json":   "sickleave\\src\\СЭДО\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФСС\\CommonModule.obj.bsl"
+    },
+    "ЭлектронныйДокументооборотСФССКлиент": {
+      "CommonModule.json": "sickleave\\src\\СЭДО\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.json",
+      "CommonModule.id.json": "sickleave\\src\\СЭДО\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент\\CommonModule.obj.bsl"
+    }
+  },
+  "Catalog": {
+    "МашиночитаемыеДоверенностиФСС": {
+      "Catalog.json": "src\\СЭДО\\Catalog\\МашиночитаемыеДоверенностиФСС\\Catalog.json",
+      "Catalog.id.json": "src\\СЭДО\\Catalog\\МашиночитаемыеДоверенностиФСС\\Catalog.id.json",
+      "CatalogForm": {
+        "ФормаВыбора": {
+          "CatalogForm.obj.bsl": "sickleave\\base\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаВыбора\\CatalogForm.obj.bsl",
+          "*": "sickleave\\src\\СЭДО\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаВыбора"
+        },
+        "ФормаСписка": {
+          "CatalogForm.obj.bsl": "sickleave\\base\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаСписка\\CatalogForm.obj.bsl",
+          "*": "sickleave\\src\\СЭДО\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаСписка"
+        }
+      }
+    }
+  },
+  "Document": {
+  },
+  "DataProcessor": {
+    "ДокументооборотСКонтролирующимиОрганами": {
+      "DataProcessor.json": "sickleave\\src\\СЭДО\\DataProcessor\\ДокументооборотСКонтролирующимиОрганами\\DataProcessor.json",
+      "DataProcessor.id.json": "sickleave\\src\\СЭДО\\DataProcessor\\ДокументооборотСКонтролирующимиОрганами\\DataProcessor.id.json",
+      "Form": {
+		"КонтейнерКлиентскихМетодов": {
+          "Form.obj.bsl": "sickleave\\base\\DataProcessor\\ДокументооборотСКонтролирующимиОрганами\\Form\\КонтейнерКлиентскихМетодов\\Form.obj.bsl",
+          "*": "sickleave\\src\\СЭДО\\DataProcessor\\ДокументооборотСКонтролирующимиОрганами\\Form\\КонтейнерКлиентскихМетодов"
+		}
+      }
+    }
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"*": "sickleave\\src\\СЭДО\\Subsystem\\SABY\\Subsystem\\ЭЛН"
+		}
+	  }
+    }
+  },
+  "Constant": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\src\\СЭДО\\Constant\\ИспользоватьЭЛН"
+	  }
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\src\\СЭДО\\FunctionalOption\\ИспользоватьЭЛН"
+	  }
+  }
+}
