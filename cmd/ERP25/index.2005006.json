@@ -1,0 +1,18 @@
+{
+  "Subsystem": {
+    "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"*": "sickleave\\src\\ERP25\\Subsystem\\SABY\\Subsystem\\ЭЛН"
+		}
+	  }
+    }
+  },
+  "Constant": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\src\\ERP25\\Constant\\ИспользоватьЭЛН"
+	  }
+  },
+  "Enum": {
+  }
+}
