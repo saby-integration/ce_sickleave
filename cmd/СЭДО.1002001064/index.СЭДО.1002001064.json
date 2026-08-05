@@ -1,0 +1,95 @@
+{
+  "Области include": {
+    "sickleave_base_DataProcessor_ДокументооборотСКонтролирующимиОрганами_Form_КонтейнерКлиентскихМетодов_ОтправитьСообщениеСЭДОФСС": "sickleave_base_DataProcessor_ДокументооборотСКонтролирующимиОрганами_Form_КонтейнерКлиентскихМетодов_ОтправитьСообщениеСЭДОФСС.1002001064",
+    "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФССКлиент_ПолучитьСообщенияСЭДОЗаПериод": "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФССКлиент_ПолучитьСообщенияСЭДОЗаПериод.1002001064",
+    "sickleave_base_CommonModule_ИмяФункцииМассивОбрабатываемыхПодтиповВложений": "sickleave_base_CommonModule_ИмяФункцииМассивОбрабатываемыхПодтиповВложений.1002001064",
+    "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФСС": "sickleave_base_CommonModule_ЭлектронныйДокументооборотСФСС_МетаданныеВходящихСообщенийСЭДОФСС.1002001064"
+  },
+  "CommonModule": {
+    "ЭДОСФСС": {
+      "*": "sickleave\\base\\CommonModule\\Saby_ЭДОСФСС"
+    },
+    "ЭДОСФССКлиент": {
+      "*": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССКлиент"
+    },
+    "ЭДОСФССПовтИсп": {
+      "*": "sickleave\\base\\CommonModule\\Saby_ЭДОСФССПовтИсп"
+    },
+    "ЭлектронныйДокументооборотСФСС": {
+      "*": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФСС"
+    },
+    "ЭлектронныйДокументооборотСФССКлиент": {
+      "*": "sickleave\\base\\CommonModule\\ЭлектронныйДокументооборотСФССКлиент"
+    }
+  },
+  "Catalog": {
+    "МашиночитаемыеДоверенностиФСС": {
+      "*": "sickleave\\base\\Catalog\\МашиночитаемыеДоверенностиФСС",
+      "CatalogForm": {
+        "ФормаВыбора": {
+          "*": "sickleave\\base\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаВыбора"
+        },
+        "ФормаСписка": {
+          "*": "sickleave\\base\\Catalog\\МашиночитаемыеДоверенностиФСС\\CatalogForm\\ФормаСписка"
+        }
+      }
+    }
+  },
+  "CommonCommand": {
+    "ОткрытьФормуНастроек": {
+	  "CommonCommand.obj.bsl": "core\\base\\ВстраиваниеВФормы\\ГлавнаяСтраница1С\\CommonCommand\\ОткрытьФормуНастроек\\CommonCommand.obj.bsl",
+	  "*": "sickleave\\base\\CommonCommand\\ОткрытьФормуНастроек"
+	}
+  },
+  "CommandGroup": {
+	"ГруппаНастройки": {
+	  "*": "sickleave\\base\\CommandGroup\\ГруппаНастройки"
+	}
+  },
+  "Document": {
+  },
+  "DataProcessor": {
+    "ДокументооборотСКонтролирующимиОрганами": {
+      "*": "sickleave\\base\\DataProcessor\\ДокументооборотСКонтролирующимиОрганами",
+      "Form": {
+		"КонтейнерКлиентскихМетодов": {
+          "*": "sickleave\\base\\DataProcessor\\ДокументооборотСКонтролирующимиОрганами\\Form\\КонтейнерКлиентскихМетодов"
+		}
+      }
+    }
+  },
+  "Role": {
+	"ДобавлениеИзменениеИзвещенийФСС":{
+		"*": "sickleave\\base\\Role\\ДобавлениеИзменениеИзвещенийФСС"
+	},
+	"ПолныеПрава":{
+		"*": "sickleave\\base\\Role\\ПолныеПрава"
+	}
+  },
+  "Subsystem": {
+     "SABY": {
+      "Subsystem": {
+		"ЭЛН": {  
+			"*": "sickleave\\base\\Subsystem\\SABY\\Subsystem\\ЭЛН"
+		}
+	  }
+    }
+  },
+  "Constant": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\base\\Constant\\ИспользоватьЭЛН"
+	  }
+  },
+  "Enum": {
+  },
+  "FunctionalOption": {
+	  "ИспользоватьЭЛН": {
+		"*": "sickleave\\base\\FunctionalOption\\ИспользоватьЭЛН"
+	  }
+  },
+  "Language": {
+	"Русский": {
+		"*": "sickleave\\base\\Language\\Русский"
+	}
+  }
+}
